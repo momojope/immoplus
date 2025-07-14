@@ -1,4 +1,7 @@
 # Immoplus
+## logs : admin
+### Email: immoplus@gmail.sn
+### Password: immoplus221
 <img width="1366" height="768" alt="Capture d’écran (268)" src="https://github.com/user-attachments/assets/9d93dc1c-c519-49c5-ab1f-f66b07b62421" />
 <img width="1366" height="768" alt="Capture d’écran (274)" src="https://github.com/user-attachments/assets/d75eac4f-feb6-4fbf-a3e2-cc210594301b" />
 <img width="1366" height="768" alt="Capture d’écran (273)" src="https://github.com/user-attachments/assets/f995333f-1064-47a4-b1a8-a77256835ec6" />
